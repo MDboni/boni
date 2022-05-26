@@ -1,0 +1,35 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.boni{
+	background: linear-gradient(30deg,black,deepskyblue);
+	width: 33.33%;
+	padding: 20px 0px;
+	float: left;
+}
+.boni img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin: auto;
+	display: block;
+}
+
+.boni h1{
+	color: skyblue;
+	text-align: center;
+}
+.boni h2{
+	color: orange;
+	text-align: center;
+}
+
+.boni p{
+	color: blue;
+	text-align: center;
+	width: 70%;
+	margin: auto;
+
+}
